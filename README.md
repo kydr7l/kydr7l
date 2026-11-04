@@ -6,6 +6,6 @@ I write external utilities for games, mostly adding modern features to old engin
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kydr7l&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kydr7l&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=kydr7l)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
